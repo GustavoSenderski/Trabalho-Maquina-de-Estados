@@ -84,7 +84,7 @@ Durante a execução, o programa apresenta informações no console indicando:
 
 O relatório completo do trabalho está disponível no repositório:
 
-[Relatório - Máquina de Estados](documentos/Relatorio_Trabalho_Maquina_de_Estados.pdf)
+[Relatório - Máquina de Estados](docs/Relatorio_Trabalho_Maquina_de_Estados.pdf)
 
 ## Autor
 
