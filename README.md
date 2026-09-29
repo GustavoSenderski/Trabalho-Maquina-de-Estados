@@ -58,6 +58,8 @@ Quando o Guarda detecta o Invasor, o Invasor reage entrando no estado ESCONDENDO
 
 Quando o Guarda alcança o Invasor, o Invasor reage entrando no estado FUGINDO.
 
+Quando o confronto termina, o Guarda retorna ao estado PATRULHANDO e o Invasor retorna ao estado EXPLORANDO.
+
 Essas interações também são exibidas no console por meio dos logs de comunicação.
 
 ## Logs
@@ -75,8 +77,14 @@ Durante a execução, o programa apresenta informações no console indicando:
 
 - Java
 - Eclipse IDE
-- Intellij IDEA
+- IntelliJ IDEA
 - Padrão State
+
+## Documentação
+
+O relatório completo do trabalho está disponível no repositório:
+
+[Relatório - Máquina de Estados](documentos/Relatorio_Trabalho_Maquina_de_Estados.pdf)
 
 ## Autor
 
